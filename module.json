@@ -16,7 +16,7 @@
   "dependencies": {},
   "targetDependencies": {
     "efm32gg": {
-      "cmsis-core-efm32gg": "ARMmbed/cmsis-core-efm32gg#~0.0.5"
+      "cmsis-core-efm32gg": "ARMmbed/cmsis-core-efm32gg#~0.1.0"
     }
   }
 }
