@@ -1,6 +1,6 @@
 {
   "name": "cmsis-core-silabs",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "CMSIS Core Implementation for Silicon Labs MCUs",
   "keywords": [
     "cmsis"
@@ -16,6 +16,9 @@
   "targetDependencies": {
     "efm32gg": {
       "cmsis-core-efm32gg": "~0.1.0"
+    },
+    "efm32hg": {
+      "cmsis-core-efm32hg": "~0.0.1"
     }
   }
 }
