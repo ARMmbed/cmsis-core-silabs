@@ -19,6 +19,12 @@
     },
     "efm32hg": {
       "cmsis-core-efm32hg": "~0.0.1"
+    },
+    "efm32lg": {
+      "cmsis-core-efm32lg": "~0.0.1"
+    },
+    "efm32wg": {
+      "cmsis-core-efm32wg": "~0.0.1"
     }
   }
 }
