@@ -1,6 +1,6 @@
 {
   "name": "cmsis-core-silabs",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "CMSIS Core Implementation for Silicon Labs MCUs",
   "keywords": [
     "cmsis"
