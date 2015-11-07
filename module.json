@@ -5,7 +5,7 @@
   "keywords": [
     "cmsis"
   ],
-  "author": "Marcus Chang <marcus.chang@arm.com>",
+  "author": "Aksel Skauge Mellbye <aksel.mellbye@silabs.com>",
   "repository": {
     "url": "git@github.com:ARMmbed/cmsis-core-silabs.git",
     "type": "git"
@@ -15,16 +15,16 @@
   "dependencies": {},
   "targetDependencies": {
     "efm32gg": {
-      "cmsis-core-efm32gg": "~0.3.0"
+      "cmsis-core-efm32gg": "^1.0.0"
     },
     "efm32hg": {
-      "cmsis-core-efm32hg": "~0.1.0"
+      "cmsis-core-efm32hg": "^1.0.0"
     },
     "efm32lg": {
-      "cmsis-core-efm32lg": "~0.0.1"
+      "cmsis-core-efm32lg": "^1.0.0"
     },
     "efm32wg": {
-      "cmsis-core-efm32wg": "~0.0.1"
+      "cmsis-core-efm32wg": "^1.0.0"
     }
   }
 }
